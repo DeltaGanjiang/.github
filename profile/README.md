@@ -24,9 +24,9 @@
     />
   </a>
   &nbsp;
-  <a href="https://www.xiaohongshu.com/search_result?keyword=63625541619">
+  <a href="https://www.xiaohongshu.com/search_result?keyword=95614037352">
     <img
-      src="https://img.shields.io/badge/小红书-63625541619-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"
+      src="https://img.shields.io/badge/小红书-95614037352-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"
       alt="小红书"
     />
   </a>
@@ -63,7 +63,7 @@ Visit the official website to explore the Gan Jiang platform:
 
 Follow our latest updates:
 
-📕 **[小红书：63625541619](https://www.xiaohongshu.com/search_result?keyword=63625541619)**
+📕 **[小红书：95614037352](https://www.xiaohongshu.com/search_result?keyword=95614037352)**
 
 ---
 
