@@ -2,7 +2,7 @@
   <img
     width="100%"
     alt="Gan Jiang — Intelligent XRD Agent"
-    src="https://github.com/user-attachments/assets/2f2ca9ad-1264-4279-a878-55b9d3d95389"
+    src="https://github.com/user-attachments/assets/41ea7fd7-71e0-4862-9407-7b76b1d8882d"
   />
 </p>
 
