@@ -23,12 +23,14 @@
 </p>
 
 <p align="center">
-  <a href="#the-platform">The Platform</a> &nbsp; / &nbsp;
-  <a href="#capabilities">Capabilities</a> &nbsp; / &nbsp;
-  <a href="#the-workflow">Workflow</a> &nbsp; / &nbsp;
-  <a href="#research--ecosystem">Research &amp; Ecosystem</a>
+  <a href="https://ganjiang.asia/">Official Website ↗</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/orgs/DeltaGanjiang/repositories">Repositories ↗</a>
+  &nbsp; / &nbsp;
+  <a href="https://ganjiang.asia/team.html">Our Team ↗</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.xiaohongshu.com/search_result?keyword=95614037352">小红书 ↗</a>
 </p>
-
 
 The Platform
 Understand the structure behind the pattern.
