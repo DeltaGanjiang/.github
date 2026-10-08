@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ganjiang.asia/">Official Website ↗</a>
+  <a href="https://bincao.work/blogs/gan-jiang-self-learning-xrd-agent.html">Project Intro ↗</a>
   &nbsp; / &nbsp;
   <a href="https://github.com/orgs/DeltaGanjiang/repositories">Repositories ↗</a>
   &nbsp; / &nbsp;
