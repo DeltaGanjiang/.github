@@ -25,6 +25,8 @@
 <p align="center">
   <a href="https://bincao.work/blogs/gan-jiang-self-learning-xrd-agent.html">Project Intro ↗</a>
   &nbsp; / &nbsp;
+  <a href="https://arxiv.org/abs/2610.07862">Paper ↗</a>
+  &nbsp; / &nbsp;
   <a href="https://github.com/orgs/DeltaGanjiang/repositories">Repositories ↗</a>
   &nbsp; / &nbsp;
   <a href="https://ganjiang.asia/team.html">Our Team ↗</a>
